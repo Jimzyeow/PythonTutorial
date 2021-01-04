@@ -65,4 +65,5 @@ name.count('m')
 #if there are multiple quotations, can use backslash to ignore a symbol
 # this will escapes the string and see it as text
 # .lower() method will convert the user input to lower case no matter what
+# check other methods
 input('You\'re at a crossroad, where do you want to go? Type "left" or "right".').lower()
