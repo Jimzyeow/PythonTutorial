@@ -4,19 +4,6 @@ vegetables = ["spinach", "kale", "tomatoes", "celery", "potatoes"]
 # nested list
 dirty_dozen = [fruits, vegetables]
 
-print(dirty-dozen)
-
-
-
-
-
-# another example
-fruits = ["strawberries", "apples", "grapes", "peaches", "pears"]
-vegetables = ["spinach", "kale", "tomatoes", "celery", "potatoes"]
-
-# nested list
-dirty_dozen = [fruits, vegetables]
-
 # print(dirty_dozen)
 
 # how it works: print(dirty_dozen[0]) will print fruits list
